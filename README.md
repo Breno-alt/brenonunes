@@ -1,37 +1,26 @@
 # Olá, eu sou o Breno Nunes!
 
-### Desenvolvedor em formação | Foco em Web & Sistemas
-Atualmente estudando e me desenvolvendo com as seguintes tecnologias:
+**Desenvolvedor Full-Stack em formação**, com foco em **PHP, Python, JavaScript, Node.js, HTML5, CSS3 e MySQL**. Busco aplicar meus conhecimentos no desenvolvimento de **sistemas web modernos**, **APIs back-end** e **bancos de dados relacionais**.
 
-**PHP | Python | JavaScript | Node.js (APIs) | HTML5 | CSS3 | MySQL**
+Atualmente aprimoro minhas habilidades em **Angular, Vue.js, Express.js e RESTful APIs**. Tenho facilidade de aprendizado, sou organizado e focado em resolver problemas de forma eficiente.
 
----
+## 🚀 Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
 
-### O que estou fazendo:
-- Criando projetos com **HTML, CSS, JS e APIs**
-- Desenvolvendo sistemas com **PHP, MySQL** e **Flask (Python)**
-- Estudando para me tornar um **Desenvolvedor Júnior**
-- Trabalhando em um **jogo de damas** com **Python e Pygame**
-- Criando um **sistema escolar** completo e uma futura **rede social**
-
----
-
-### Tecnologias que estudo:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 📫 Contato
+- **Email:** brenonunes.santos18@gmail.com  
+- **LinkedIn:** [linkedin.com/in/brenonunesdev](https://linkedin.com/in/brenonunesdev)
 
 ---
 
-### Meus Contatos:
-- [LinkedIn](https://www.linkedin.com/in/breno-nunes-31b6b9267)
-- Email: **brenonunes.santos18@gmail.com**
-
----
-
-**Obrigado por visitar meu perfil!**  
-Sinta-se à vontade para ver meus repositórios e me chamar para colaborar!
+*Obrigado por visitar meu perfil!*
